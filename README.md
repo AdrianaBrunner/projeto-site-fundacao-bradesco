@@ -1,3 +1,1 @@
-Projeto Site Completo - Fundação Bradesco
-
-Projeto criado no curso de HTML/CSS da Fundação Bradesco
+Projeto criando um site completo no curso de HTML/CSS da Fundação Bradesco
